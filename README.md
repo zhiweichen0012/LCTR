@@ -98,10 +98,13 @@ python3 main.py --eval --model deit_small_lctr --data-set IMNET --data-path /pat
 ## 🔍 Citation <a name="6"></a> 
 
 ```
-@article{chen2021lctr,
-  title={LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization},
+@inproceedings{chen2022lctr,
+  title={Lctr: On awakening the local continuity of transformer for weakly supervised object localization},
   author={Chen, Zhiwei and Wang, Changan and Wang, Yabiao and Jiang, Guannan and Shen, Yunhang and Tai, Ying and Wang, Chengjie and Zhang, Wei and Cao, Liujuan},
-  booktitle={AAAI},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={1},
+  pages={410--418},
   year={2022}
 }
 ```
